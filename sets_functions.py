@@ -1,3 +1,7 @@
+# length is length of set A and second i/p line is A set of elements
+# 3rd i/p is N number of other sets
+# for each other set we have 2 attributes in i/p operation on other set and length of other set
+
 length = int(raw_input())
 A = set(map(int, raw_input().split()))
 N = int(raw_input())
