@@ -9,6 +9,6 @@
 #3
 
 import numpy
-N = int(raw_input())
-A = numpy.array([input().split() for _ in range(N)], float)
-print(numpy.linalg.det(A))
+n=input()
+a=numpy.array([raw_input().split() for j in range (n)],float)
+print numpy.linalg.det(a) 
