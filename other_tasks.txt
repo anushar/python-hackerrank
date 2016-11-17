@@ -1,2 +1,6 @@
 # link for text allignment solution
 http://hackerranksolve.blogspot.co.uk/2016/04/text-alignment.html
+
+# other codes in repository
+https://github.com/anushar/junk/tree/master/hackerrank/python/regex-and-parsing
+
