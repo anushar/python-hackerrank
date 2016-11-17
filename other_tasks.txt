@@ -1,0 +1,2 @@
+# link for text allignment solution
+http://hackerranksolve.blogspot.co.uk/2016/04/text-alignment.html
