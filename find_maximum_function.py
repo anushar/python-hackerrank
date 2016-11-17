@@ -2,7 +2,7 @@
 #Input Format  
 #The first line contains  space separated integers  and . 
 #The next  lines each contains an integer  followed by  space separated integers denoting the elements in the list. 
-Output Format  Output a single integer denoting the value . 
+#Output Format  Output a single integer denoting the value . 
 
 import itertools
 (K, N) = map(int, raw_input().split()) 
